@@ -46,3 +46,8 @@ C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\obj\Debug\net6.0\refint\Usuar
 C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.pdb
 C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.genruntimeconfig.cache
 C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\obj\Debug\net6.0\ref\UsuariosApi.dll
+C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\temp\aulas alura Csharp\UsuariosApi\UsuariosApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
